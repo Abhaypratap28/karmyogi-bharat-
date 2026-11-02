@@ -1,0 +1,7 @@
+{
+  "name": "Karmyogi",
+  "description": "India's dedicated professional platform and marketplace for skilled workers, artisans, and service seekers with live distance matching, secure verification, automated lead generation, and real-time messaging.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,14 @@
+# KARMYOGI SMTP configuration (local only — this file is ignored by Git)
+#
+# Gmail setup:
+# 1. Turn on 2-Step Verification for your Google account.
+# 2. Create a Google App Password for "Mail" and use that 16-character value
+#    below. Do NOT use your normal Gmail password.
+# 3. Keep SMTP_SECURE=true with port 465, as configured here.
+
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=465
+SMTP_SECURE=true
+SMTP_USER=ap78795007@gmail.com
+SMTP_PASS=fwqaseorfvmojbxx
+SMTP_FROM="KARMYOGI <ap78795007@gmail.com>"
